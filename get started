@@ -1,7 +1,23 @@
 #now lets get started
 
-What is machine learning?
+What is machine learning? why machine learning?
    Well it is subset of AI that can learn to perform a task with extracted or collected data.The tasks include predictions and effective classification.
 
-But why machine learning?
-   
+supervised and unsupervised learning algorithms:- * these are 2 of the categories of ML algorithms
+
+supervised learning algorithms - these algorithm makes predictions or estimates of output by using labeled data.
+----> now, what is labeled data?
+      labeled data consits of
+       features - features refer to the input variables.These features can be numerical, categorical, or a combination of both.
+       labels   - labels refer to the output value that the model is being trained to predict.
+ Examples of Supervised Learning Algorithms:
+   * Linear Regression
+   * Logistic Regression       
+
+unsupervised learning algorithms - unsupervised learning algorithms are designed to analyze and model data without using labeled data.
+Examples of Supervised Learning Algorithms:
+   * Clustering algorithm
+   * principal component analysis 
+
+next>> pandas and dataframes
+
