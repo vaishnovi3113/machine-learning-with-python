@@ -1,1 +1,22 @@
 #lets get started with pandas
+
+* pandas is the most popular python library that is used for data analysis.
+* it is expressive datastructure designed to make working with relational data easy.
+
+** pandas has 2 primary data structures:-
+  1.series(1D):- this 1D object similar to column in sql table.
+  2.DataFrame:- * it is 2D object similar to a sql table.i.e data is represented in tabular format.
+                * mostly used pandas object.
+
+* syntax for importing pandas:
+    import pandas as pd
+
+we can load datasets of different formats into dataframs through methods like:
+   1. read_csv() - to read comma separated values
+   2. read_json() - to read data with json format
+   3. read_excel() - to read excel files.
+   4. read_table() - to read database tables.
+
+* now lets look into some functions or essentials tools for working and exploring data.
+  1) type() - returns the type of the object.
+  2) 
