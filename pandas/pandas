@@ -5,7 +5,7 @@
 
 ** pandas has 2 primary data structures:-
   1.series(1D):- this 1D object similar to column in sql table.
-  2.DataFrame:- * it is 2D object similar to a sql table.i.e data is represented in tabular format.
+  2.DataFrame(2D):- * it is 2D object similar to a sql table.i.e data is represented in tabular format.
                 * mostly used pandas object.
 
 * syntax for importing pandas:
